@@ -6,12 +6,12 @@
 
 ### Maintainers
 
-**This library is maintaining by Ranjan Sharma** It is self motivated work.  
+**This library is being maintained by Ranjan Sharma**. It is self motivated work.  
 Feel free to provide your feedback, If you see any room for improvement in this, **it really makes a difference.**
 
 ### Platform compatibility
 
-This project is compatible with **iOS**, **Android**
+This project is compatible with `iOS`, and `Android`
 
 ### Getting Started
 
