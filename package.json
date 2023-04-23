@@ -1,0 +1,34 @@
+{
+  "name": "react-native-locale-number-input",
+  "version": "1.0.0",
+  "description": "It support numeric input based on region changes and show formatted value.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjansharma1412/locale-number-input.git"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-localize": "^2.2.6"
+  },
+  "keywords": [
+    "Locale",
+    "Support",
+    "Input",
+    "Numeric",
+    "TextInput",
+    "Input",
+    "React",
+    "Native"
+  ],
+  "author": "Ranjan Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjansharma1412/locale-number-input/issues"
+  },
+  "homepage": "https://github.com/ranjansharma1412/locale-number-input#readme"
+}
