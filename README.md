@@ -19,7 +19,7 @@ This project is compatible with `iOS`, and `Android`
 
 `yarn add react-native-locale-number-input` or `npm install react-native-locale-number-input --save`
 
-[This library support autolinking]()
+[This library support autolinking](https://github.com/react-native-community/cli/blob/main/docs/autolinking.md)
 
 ### Usage
 
